@@ -1,9 +1,18 @@
 Studi Literatur: Model dan Framework Audit Keamanan Aplikasi Web
 
 A. PENDAHULUAN
-  1. Latar Belakang
-  2. Rumusan Masalah
-  3. Tujuan Penelitian
+1. Latar Belakang
+Kehadiran aplikasi web telah menjadi infrastruktur yang cukup penting dalam berbagai aktivitas bisnis dan pribadi, yang sangat menarik bagi para pelaku kejahatan siber.
+Tingginya kompleksitas serta penggunaan aplikasi web yang terus meningkat menjadikannya target empuk bagi serangan, yang bergantung pada kelemahan sistem yang belum ditemukan.
+Pentingnya audit dalam keamanan aplikasi web ke depan dapat membantu mendeteksi serta menjawab masalah-masalah tersebut dengan cara yang lebih proaktif.
+Berbagai standar dan framework telah dikembangkan untuk membantu memberikan panduan yang lengkap dalam proses audit serta menyiapkan sistem patokan demi menjamin keamanan yang paling tinggi.
+Kegiatan literatur yang satu ini ditujukan untuk menginvestigasi model serta framework audit keamanan aplikasi web yang paling efektif dalam mengusulkan kriteria yang penting untuk dilakukan perbaikan kedalam sistem masukkan demi memperkuat pertahanan terhadap serangan siber.
+
+2. Rumusan Masalah
+a. Apa saja standar atau framework yang dapat digunakan dalam audit keamanan aplikasi web?
+b. Bagaimana konsep pendekatan dari masing-masing standar dan framework?
+c. Parameter apa yang menjadi fokus utama dari standar atau framework audit keamanan aplikasi web?
+
 
 B. METODE PENELITIAN
 
