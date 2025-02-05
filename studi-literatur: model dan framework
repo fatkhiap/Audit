@@ -16,20 +16,25 @@ c. Parameter apa yang menjadi fokus utama dari standar atau framework audit keam
 
 B. METODE PENELITIAN
 Terdapat 3 tahapan metode penelitian yang saya lakukan, yaitu:
-Kajian Literatur > Perbandingan Pendekatan antar Framework > Identifikasi Parameter Utama
+a. Kajian Literatur= melakukan pengkajian terhadap standar dan framework yang digunakan dalam audit keamanan aplikasi web
+b. Perbandingan antar Framework= melakukan perbandingan terhadap standar dan framework yang digunakan dalam audit keamanan aplikasi web, dengan fokus utama pada jenis kontrol dan rinciannya
+c. Identifikasi Parameter Utama= berdasarkan hasil perbandingan framework, kemudian dilakukan pengelompokan kontrol sejenis, sehingga dihasilkan parameter yang mencakup seluruh kontrol dari framework/standar yang dibandingkan
 
 C. STUDI LITERATUR STANDAR DAN FRAMEWORK PADA AUDIT KEAMANAN APLIKASI WEB
+1. ISO 27001
+
+
+2. NIST Cyber Security Framework
+3. COBIT
+4. ITIL
+5. SOC 2
+6. OWASP ASVS
+7. OWASP SAMM
+8. SANS Top 25 Most Dangerous Software Errors
+9. OWASP Top 10
 
 D. ANALISIS FRAMEWORK AUDIT KEAMANAN APLIKASI WEB
-  1. ISO 27001
-  2. NIST Cyber Security Framework
-  3. COBIT
-  4. ITIL
-  5. SOC 2
-  6. OWASP ASVS
-  7. OWASP SAMM
-  8. SANS Top 25 Most Dangerous Software Errors
-  9. OWASP Top 10
+
 
 E. IDENTIFIKASI PARAMETER UTAMA DALAM AUDIT KEAMANAN APLIKASI WEB
 
