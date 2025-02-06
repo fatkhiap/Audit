@@ -23,12 +23,23 @@ c. Identifikasi Parameter Utama= berdasarkan hasil perbandingan framework, kemud
 C. STUDI LITERATUR STANDAR DAN FRAMEWORK PADA AUDIT KEAMANAN APLIKASI WEB
 1. ISO/IEC 27001:2022
 ISO/IEC 27001:2022 (Cybersecurity and Privacy Protection) adalah update standar untuk ISMS berfokus pada kamsiber dan peningkatan pelindungan privasi. Terdapat 93 kontrol yang dikelompokkan kedalam 4 kategori yaitu Organisasi (37), SDM(8), Fisik(14), dan Teknologi(34).
-a. Kontrol Organisasi > Fokus Area: Tata Kelola, Kebijakan, Manajemen Aset, Threat Intelligence
-b. Kontrol SDM > Fokus Area: SDM, Pelatihan, Confidentiality
-c. Kontrol Fisik > Fokus Area: Fasilitas Keamanan, Equipment, Monitoring Akses
-d. Kontrol Teknologi > Fokus Area: Infrastruktur IT, Data Protection, Secure Coding
+- Kontrol Organisasi > Fokus Area: Tata Kelola, Kebijakan, Manajemen Aset, Threat Intelligence
+- Kontrol SDM > Fokus Area: SDM, Pelatihan, Confidentiality
+- Kontrol Fisik > Fokus Area: Fasilitas Keamanan, Equipment, Monitoring Akses
+- Kontrol Teknologi > Fokus Area: Infrastruktur IT, Data Protection, Secure Coding
 
-2. NIST Cyber Security Framework
+2. NIST CSF 2.0
+NIST CSF 2.0 adalah panduan (dikembangkan oleh NIST) untuk membantu organisasi memanajemen dan memitigasi risiko keamanan siber dengan pendekatan yang berfokus pada fungsi dan komponen. Komponen utama dari panduan ini yaitu:
+a. CSF Core
+adalah taksonomi outcome kamsiber yg terdiri dari tingkatan Fungsi, Kategori, dan Subkategori sehingga membantu organisasi untuk memanajemen risiko kamsibernya. Terdapat 5 Fungsi pada CSF Core, yaitu:
+1) Govern (GV)
+- Organizational Context (OG) - 5 subkategori
+- Risk Management Strategi (RM) - 7 subkategori
+- Roles, Responsibilities, and Authorities (RR) - 4 subkategori
+- Policy (PO) - 2 subkategori
+- Oversight (OV) - 3 subkategori
+- Cybersecurity Supply Chain Management (SC) - 10 subkategori
+
 3. COBIT
 4. ITIL
 5. SOC 2
@@ -38,7 +49,6 @@ d. Kontrol Teknologi > Fokus Area: Infrastruktur IT, Data Protection, Secure Cod
 9. OWASP Top 10
 
 D. ANALISIS FRAMEWORK AUDIT KEAMANAN APLIKASI WEB
-
 
 E. IDENTIFIKASI PARAMETER UTAMA DALAM AUDIT KEAMANAN APLIKASI WEB
 
