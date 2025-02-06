@@ -40,6 +40,32 @@ adalah taksonomi outcome kamsiber yg terdiri dari tingkatan Fungsi, Kategori, da
 - Oversight (OV) - 3 subkategori
 - Cybersecurity Supply Chain Management (SC) - 10 subkategori
 
+2) Identify (ID)
+- Asset Management (AM) - 7 subkategori
+- Risk Assessment (RA) - 10 subkategori
+- Improvement (IM) - 4 subkategori
+
+3) Protect (PR)
+- Identify Management, Authentication, and Access Control (AA) - 6 subkategori
+- Awareness and Training (AT) - 2 subkategori
+- Data Security (DS) - 4 subkategori
+- Platform Security (PS) - 6 subkategori
+- Technology Infrastructure Resilience (IR) - 4 subkategori
+
+4) Detect (DE)
+- Continuous Monitoring (CM) - 5 subkategori
+- Adverse Event Analysis (AE) - 6 subkategori
+
+5) Respond (RS)
+- Incident Management (MA) - 5 subkategori
+- Incident Analysis (AN) - 4 subkategori
+- Incident Response Reporting and Communication (CO) - 2 subkategori
+- Incident Mitigations (MI) - 2 subkategori
+
+6) Recover (RC)
+- Incident Recovery Plan Execution (RP) - 6 subkategori
+- Incident Recovery Communication (CO) - 2 subkategori
+
 3. COBIT
 4. ITIL
 5. SOC 2
