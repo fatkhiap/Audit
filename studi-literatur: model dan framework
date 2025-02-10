@@ -75,7 +75,14 @@ Penerapan CSF Organizational Profile untuk mengkarakteristikan tata kelola dan m
 3. COBIT 2019
 Kerangka kerja yang dibuat oleh ISACA, digunakan secara international untuk tata kelola dan manajemen TI dalam suatu organisasi. COBIT 2019 memiliki 5 domain utama, yaitu:
 a. Evaluate, Direct, Monitor (EDM)
+Proses Evaluate berkaitan dengan evaluasi peninjauan terhadap pilihan strategis yang tersedia untuk mencapai tujuan organisasi dengan mempertimbangka faktor seperti: kebutuhan stakeholder, kondisi market, risiko, sumberdaya, dan trend teknologi.
+Proses Direct berfokus pada memberikan arahan kepada manajemen untuk mengimplementasikan yang telah disepakati seperti kebijakan, anggaran, prioritas program, dan standar sehingga tercapai tujuan organisasi dengan efisien. 
+Proses Monitor berfokus pada memastikan strategi yang ditetapkan, berjalan sesuai dengan perencanaan.
+
 b. Align, Plan, Organize (APO)
+Proses Align berfokus pada strategi dan perencanaan TI agar selaras dengan tujuan organisasi.
+Proses Plan berfokus [
+
 c. Build, Acquire, Implement (BAI)
 d. Deliver, Service, Support (DSS)
 e. Monitor, Evaluate, Assess (MEA)
