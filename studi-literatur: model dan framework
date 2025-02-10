@@ -72,8 +72,13 @@ Mekanisme untuk mendekripsikan kondisi Kamsiber Organisasi berdasarkan hasil CSF
 c. CSF Tiers
 Penerapan CSF Organizational Profile untuk mengkarakteristikan tata kelola dan manajemen risiko kamsiber suatu organisasi.
 
-3. COBIT
-
+3. COBIT 2019
+Kerangka kerja yang dibuat oleh ISACA, digunakan secara international untuk tata kelola dan manajemen TI dalam suatu organisasi. COBIT 2019 memiliki 5 domain utama, yaitu:
+a. Evaluate, Direct, Monitor (EDM)
+b. Align, Plan, Organize (APO)
+c. Build, Acquire, Implement (BAI)
+d. Deliver, Service, Support (DSS)
+e. Monitor, Evaluate, Assess (MEA)
 
 4. ITIL
 5. SOC 2
